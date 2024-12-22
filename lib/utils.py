@@ -1,0 +1,1 @@
+This is the utility file to contain utility fucnions like creating a spark session
